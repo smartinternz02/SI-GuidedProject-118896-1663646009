@@ -3,12 +3,6 @@ Virtual Internship - Android Application Development Using Kotlin
 
 By Bollu Poojitha
 
-Actually I am facing an issue to upload all my project files to github so, I have uploaded all my project files to Drive and I have provided the link below 
-
-Kindly please consider my project even files are uploaded to Drive 
-
-Project files :- https://drive.google.com/drive/folders/1i9DDDWx4mYZoAJmzo5T1JL1qGIqxlMW_?usp=sharing
-
  <h2>Virtual Internship - Android Application Development Using Kotlin
 </h2>
 <h2>
